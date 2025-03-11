@@ -1,6 +1,6 @@
 # Sistema Solar Interativo em 3D
 
-Um projeto romântico e educativo que apresenta uma visualização interativa do sistema solar usando React e Three.js. Este projeto foi criado como parte do meu aprendizado em React e desenvolvimento 3D na web.
+Um projeto educativo que apresenta uma visualização interativa do sistema solar usando React e Three.js. Este projeto foi criado como parte do meu aprendizado em React e desenvolvimento 3D na web.
 
 ## 🚀 Tecnologias Utilizadas
 
