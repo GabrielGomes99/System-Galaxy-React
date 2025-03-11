@@ -2,8 +2,6 @@
 
 Um projeto romântico e educativo que apresenta uma visualização interativa do sistema solar usando React e Three.js. Este projeto foi criado como parte do meu aprendizado em React e desenvolvimento 3D na web.
 
-![Sistema Solar Preview](preview.png)
-
 ## 🚀 Tecnologias Utilizadas
 
 - React.js
@@ -22,7 +20,7 @@ Antes de começar, você precisa ter instalado em sua máquina:
 
 1. Clone este repositório:
 ```bash
-git clone https://github.com/seu-usuario/system-galaxy.git
+git clone https://github.com/seu-usuario/system-galaxy-react.git
 ```
 
 2. Entre na pasta do projeto:
@@ -90,7 +88,7 @@ Contribuições são sempre bem-vindas! Sinta-se à vontade para:
 
 Seu Nome - [1dev.gabrielgomes@gmail.com](mailto:1dev.gabrielgomes@gmail.com)
 
-Link do Projeto: [https://github.com/seu-usuario/system-galaxy](https://github.com/seu-usuario/system-galaxy)
+Link do Projeto: [https://github.com/GabrielGomes99/system-galaxy](https://github.com/GabrielGomes99/system-galaxy-react)
 
 ## 📜 Licença
 
