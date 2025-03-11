@@ -72,8 +72,18 @@ function App() {
       <AppContainer>
         <Canvas camera={{ position: [0, 20, 35], fov: 75 }}>
           <Suspense fallback={null}>
-            <ambientLight intensity={0.1} />
-            <pointLight position={[0, 0, 0]} intensity={2} color="#fff8e7" />
+            <ambientLight intensity={0.4} />
+            <pointLight position={[0, 0, 0]} intensity={3} color="#FDB813" />
+            <directionalLight 
+              position={[10, 10, 5]} 
+              intensity={0.5} 
+              color="#ffffff" 
+            />
+            <directionalLight 
+              position={[-10, -10, -5]} 
+              intensity={0.3} 
+              color="#ffffff" 
+            />
             <Stars radius={300} depth={50} count={5000} factor={4} />
             <Galaxy />
             <SolarSystem />
