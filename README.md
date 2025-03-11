@@ -88,7 +88,7 @@ Contribuições são sempre bem-vindas! Sinta-se à vontade para:
 
 ## 📫 Contato
 
-Seu Nome - [Seu Email](mailto:seu-email@exemplo.com)
+Seu Nome - [1dev.gabrielgomes@gmail.com](mailto:1dev.gabrielgomes@gmail.com)
 
 Link do Projeto: [https://github.com/seu-usuario/system-galaxy](https://github.com/seu-usuario/system-galaxy)
 
@@ -97,4 +97,4 @@ Link do Projeto: [https://github.com/seu-usuario/system-galaxy](https://github.c
 Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
 
 ---
-⭐️ From [seu-usuario](https://github.com/seu-usuario)
+⭐️ From [GabrielGomes99](https://github.com/GabrielGomes99)
