@@ -1,6 +1,6 @@
 {
-  "name": "site-romantico",
-  "version": "0.1.0",
+  "name": "system-galaxy",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@react-three/drei": "^10.0.4",
