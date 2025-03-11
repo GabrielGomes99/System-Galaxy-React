@@ -1,7 +1,7 @@
 import { createGlobalStyle } from 'styled-components';
 
 export const GlobalStyle = createGlobalStyle`
-  @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Montserrat:wght@300;400;700&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Montserrat:wght@400;600&display=swap');
 
   * {
     margin: 0;
@@ -12,10 +12,11 @@ export const GlobalStyle = createGlobalStyle`
   body {
     font-family: 'Montserrat', sans-serif;
     overflow: hidden;
-    background: #000;
+    background: #0f0c29;
   }
 
-  ::-webkit-scrollbar {
-    display: none;
+  ::selection {
+    background: rgba(255, 255, 255, 0.2);
+    color: white;
   }
-`; 
+`;
